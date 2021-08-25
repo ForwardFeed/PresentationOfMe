@@ -5,7 +5,7 @@ originaly i was more into the human brain, but computers are more direct and hon
 
 I post some stuff on github because some frens ask me to share things i made and github provide a free and good service for sharing.
 
-I really like linux+bash and Rust, even tho i know basics of C++ & Web languages.
+I really like GNU+linux+bash and Rust, even tho i know basics of C++ & Web languages.
 
 ###### Friendly reminder to stay hydrated, keeping a good posture when working and always blaming someone else for your own mistakes
 
