@@ -1,11 +1,11 @@
 ### Henlo, i like data processing stuff.
 ![A](https://user-images.githubusercontent.com/76596109/130815250-efaf2547-4380-4cf3-afdc-cfaf9d83e189.gif)
 
-originaly i was more into the human brain, but computers are more direct and honest.
+Originaly i was more into the human brain computing, but digital computers even cooler.
 
-I post some stuff on github because some frens ask me to share things i made and github provide a free and good service for sharing.
+The stuff i post on github are things i made that i think they are somewhat worth sharing.
 
-I really like GNU+linux+bash and Rust, even tho i know basics of C++ & Web languages.
+I really like Linux systems with bash and Rust, even tho i know basics of C++, python & Web languages.
 
-###### Friendly reminder to stay hydrated, keeping a good posture when working and always blaming someone else for your own mistakes
+###### Friendly reminder to stay hydrated, to keep a good posture when working and to always blame someone else for your own mistakes (just kidding for the last part)
 
