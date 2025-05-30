@@ -9,3 +9,4 @@ I really like Linux systems with bash and Rust, even tho i know basics of C++, p
 
 ###### Friendly reminder to stay hydrated, to keep a good posture when working and to always blame someone else for your own mistakes (just kidding for the last part)
 
+![image](https://github.com/user-attachments/assets/4b253f98-df52-4bd0-8abb-7656f94cec0d)
